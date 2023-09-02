@@ -3,18 +3,20 @@
 }
 
 /* untuk box container awal */
-.box-1{
-    background-color: rgb(232, 229, 229);
-    text-align: center;
-    padding: 4em;
-    margin-top: 1em;
+/* .box-1{
+    background-color: rgb(232, 229, 229); --> tidak digunakan dan dirubah menjadi class bg-dark-subtle
+    text-align: center; --> tidak digunakan dan dirubah menjadi class text-center
+    padding: 4em; --> tidak digunakan dan dirubah menjadi class p-5
+     margin-top: 1em; --> tidak digunakan dan dirubah menjadi class my-4
     margin-bottom: 1em;
-}
-/* margin masing2 card */
-.card{
-    margin: 0.5em;
-}
+} */
 
-.marginNav{
-    margin-top: 2.5em;
-}
+/* margin masing2 card */
+/* .card{
+    margin: 0.5em; --> tidak digunakan dan dirubah menjadi class my-3 yaitu margin-yaxis(atasbawah)-3 di dalam .card
+} */
+
+
+/* .marginNav{
+    margin-top: 2.5em; --> tidak digunakan dan dirubah menjadi class mt-3
+} */
